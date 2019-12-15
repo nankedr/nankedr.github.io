@@ -6,10 +6,19 @@
     <description>Recent content in git on kexiaoke&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 15 Dec 2019 15:18:13 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 15 Dec 2019 16:17:50 +0800</lastBuildDate>
     
 	<atom:link href="/tags/git/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Git HEAD Detached问题</title>
+      <link>/post/git-head-detached%E9%97%AE%E9%A2%98/</link>
+      <pubDate>Sun, 15 Dec 2019 16:17:50 +0800</pubDate>
+      
+      <guid>/post/git-head-detached%E9%97%AE%E9%A2%98/</guid>
+      <description>今天在操作blog时遇到detached HEAD的问题，具体解释参考该文章 出现原因 在 git checkout 时，可以检出分支或提交 git checkout \&amp;lt;branchname\&amp;gt; git checkout \&amp;lt;commit id\&amp;gt; 检出分支时，HE</description>
+    </item>
     
     <item>
       <title>Git总结</title>
