@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hugo on kexiaoke&#39;s blog</title>
+    <link>/tags/hugo/</link>
+    <description>Recent content in hugo on kexiaoke&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 21 May 2021 23:44:10 +0800</lastBuildDate><atom:link href="/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>hugo tutorial</title>
+      <link>/post/hugo_tutorial/</link>
+      <pubDate>Fri, 21 May 2021 23:44:10 +0800</pubDate>
+      
+      <guid>/post/hugo_tutorial/</guid>
+      <description>原文 安装 Mac 1 brew install hugo Win/Linux: https://github.com/gohugoio/hugo/releases 验证 1 hugo version 新建站 1 hugo new site quickstart 目录结构 1 2 3 4 5 6 7 8 9 quickstart/ ├── archetypes │ └── default.md ├── config.toml ├── content ├── data ├── layouts ├── static └──</description>
+    </item>
+    
+  </channel>
+</rss>

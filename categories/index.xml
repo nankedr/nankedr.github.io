@@ -6,10 +6,15 @@
     <description>Recent content in Categories on kexiaoke&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 15 Dec 2019 16:17:50 +0800</lastBuildDate>
-    
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Fri, 21 May 2021 23:44:10 +0800</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>hugo</title>
+      <link>/categories/hugo/</link>
+      <pubDate>Fri, 21 May 2021 23:44:10 +0800</pubDate>
+      
+      <guid>/categories/hugo/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>git</title>
